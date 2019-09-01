@@ -1,6 +1,8 @@
 Class project, source: https://cs61bl.org/su18/projects/bearmaps/
 
-- I wrote the back end—the web server that powers the API that the front end makes requests to.
+- Implemented a version of Google Maps for the town of Berkeley, using A*
+search, NN search and k-d tree to find the shortest path.
+- Wrote the back end—the web server that powers the API that the front end makes requests to.
 
 Setup:
 
